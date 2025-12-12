@@ -6,8 +6,8 @@
 
 
 // Define the number of pixels in your strip
-#define NUM_PIXELS 120
-#define SECTION_SIZE 20
+#define NUM_PIXELS 300
+#define SECTION_SIZE 50
 #define NUM_SECTIONS 6 
 
 // Declare the NeoPixel object
